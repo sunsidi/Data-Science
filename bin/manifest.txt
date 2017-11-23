@@ -1,0 +1,3 @@
+Application-Name: applet
+Codebase: http://www2.macs.hw.ac.uk/~nf50/
+Permissions: all-permissions

@@ -1,0 +1,2 @@
+#!/bin/sh
+javac -cp ".:bcprov-jdk15on-155.jar:bcpg-jdk15on-155.jar" ../Applet/src/Applet.java
