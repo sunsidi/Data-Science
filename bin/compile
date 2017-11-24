@@ -1,2 +1,3 @@
 #!/bin/sh
-javac -cp ".:bcprov-jdk15on-155.jar:bcpg-jdk15on-155.jar" ../Applet/src/Applet.java
+javac -cp  bcprov-jdk15on-155.jar:bcpg-jdk15on-155.jar ../Applet/src/Applet.java -d .
+jar cvf Applet.jar bcprov-jdk15on-155.jar bcpg-jdk15on-155.jar manifest.txt Applet.class

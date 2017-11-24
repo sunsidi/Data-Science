@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Application-Name: helloworld
+Codebase: http://www2.macs.hw.ac.uk/~nf50/HelloWorld.html
+Permissions: all-permissions

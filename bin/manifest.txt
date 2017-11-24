@@ -1,3 +1,6 @@
-Application-Name: applet
-Codebase: http://www2.macs.hw.ac.uk/~nf50/
+Manifest-Version: 1.0
+Application-Name: Applet
+Main-Class: Applet.class
+Class-Path: bcprov-jdk15on-155.jar bcpg-jdk15on-155.jar Applet.jar
+Codebase: http://www2.macs.hw.ac.uk/~nf50/Applet.jar
 Permissions: all-permissions
